@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nome": "Gustavo Vilane",
+      "cpf": "123.439.182-59",
+      "email": "gustavovilane@gmail.com",
+      "senha": "jas617dsja"
+    },
+    {
+      "id": "2",
+      "nome": "Nilson",
+      "cpf": "234.234.234-44",
+      "email": "nilson@gmail.com",
+      "senha": "a178esja7"
+    },
+    {
+      "nome": "GIlson Leal",
+      "cpf": "123.458.288-51",
+      "email": "gilsonleal@gmail.com",
+      "senha": "asdh!¨dhsa!",
+      "id": "G_5q0W4tmbg"
+    },
+    {
+      "nome": "IGor",
+      "cpf": "1231231235",
+      "email": "igor@gmail.com",
+      "senha": "dsa213sas222",
+      "id": "K29M5HxYTbI"
+    }
+  ],
+  "contatos": [
+    {
+      "id": "1",
+      "nome": "Lucas Calado",
+      "telefone": "(81) 91877-1234"
+    },
+    {
+      "id": "2",
+      "nome": "Romulo Santos",
+      "telefone": "(81) 91751-8123"
+    },
+    {
+      "id": "3",
+      "nome": "Maria Eduarda",
+      "telefone": "(81) 91234-5678"
+    },
+    {
+      "nome": "Arto",
+      "telefone": "153125152",
+      "id": "82-5OtZ2AA8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
